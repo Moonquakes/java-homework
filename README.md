@@ -11,7 +11,7 @@
 - Minions、Scorpion、Snake类分别为小喽啰、蝎子精和蛇精；
 - Cheer和Fight两个接口规定了部分角色应该有的功能(为了方便多线程的处理，暂时只设置葫芦娃可以对妖精发动攻击，cheer方法尚未加入)。
 
-![](images/Role.png)
+![](Role.png)
 
 
 #### field包

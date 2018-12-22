@@ -2,67 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="969ee5b2-3e08-44db-8d43-7bb74fdab7c2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/creature/Being.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/creature/CBEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/creature/CalabashBrother.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/creature/Cheer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/creature/Creature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/creature/Demon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/creature/Fight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/creature/Grandpa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/creature/Minions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/creature/Scorpion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/creature/Snake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/example/demo1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/example/demo2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/example/demo3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/example/demo4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/example/demo5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/example/demo6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/example/demo7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/field/BattleField.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/field/Cell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/field/Position.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/formation/BluntYokeArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/formation/CraneWingArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/formation/CrescentMoonArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/formation/EnEchelonArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/formation/FangYuanArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/formation/FengVectorArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/formation/FishScaleArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/formation/Formation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/formation/SingleLineBattleArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/images/Role.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/images/background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/images/小喽啰.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/images/小喽啰亡.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/images/老七.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/images/老七亡.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/images/老三.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/images/老三亡.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/images/老二.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/images/老二亡.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/images/老五.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/images/老五亡.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/images/老六.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/images/老六亡.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/images/老四.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/images/老四亡.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/images/老大.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/images/老大亡.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/images/老爷爷.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/images/葫芦娃大战妖精.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/images/蛇精.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/images/蝎子精.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/images/蝎子精亡.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample/AuthorAnno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample/Coordinator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample/sample.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Role.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -97,7 +37,9 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-676" />
+              <first_editor relative-caret-position="236">
+                <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
@@ -122,6 +64,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -134,7 +83,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="520" />
     <option name="y" value="25" />
     <option name="width" value="1404" />
@@ -153,32 +102,6 @@
               <item name="FinalProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java程序设计Final Project" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="FinalProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java程序设计Final Project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FinalProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java程序设计Final Project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FinalProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java程序设计Final Project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FinalProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java程序设计Final Project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sample" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -186,6 +109,11 @@
       <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\作业\Java程序设计Final Project\src\main" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -339,10 +267,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/images/Role.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-676" />
+          <first_editor relative-caret-position="236">
+            <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
